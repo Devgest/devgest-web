@@ -1,0 +1,8 @@
+<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="500" height="500" fill="white"/>
+<path d="M173 69C173 64.5817 176.582 61 181 61H215C219.418 61 223 64.5817 223 69V426C223 431.523 218.523 436 213 436H181C176.582 436 173 432.418 173 428V69Z" fill="#457BE0"/>
+<rect width="50" height="181.761" rx="8" transform="matrix(0.504087 0.863653 -0.891767 0.452495 348.089 313)" fill="#457BE0"/>
+<rect width="50" height="107.493" rx="8" transform="matrix(0.504087 -0.863653 -0.891767 -0.452495 349.089 184.429)" fill="#457BE0"/>
+<rect x="322" y="137" width="50" height="223" rx="8" fill="#457BE0"/>
+<rect x="238" y="95" width="50" height="113" rx="8" fill="#457BE0"/>
+</svg>
